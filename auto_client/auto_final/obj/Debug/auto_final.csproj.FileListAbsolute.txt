@@ -1,0 +1,12 @@
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\auto_final.exe.config
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.csprojResolveAssemblyReference.cache
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.Form1.resources
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.Properties.Resources.resources
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.csproj.GenerateResource.Cache
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\auto_final.exe
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\auto_final.pdb
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.exe
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\obj\Debug\auto_final.pdb
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\InputSimulator.dll
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\InputSimulator.pdb
+C:\Users\Codecrack4\Desktop\auto\code\auto_final\auto_final\bin\Debug\InputSimulator.xml
